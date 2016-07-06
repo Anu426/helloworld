@@ -1,0 +1,9 @@
+echo true
+
+echo "git build pushed"
+
+ls -al
+
+echo "build successful"
+
+exit 0
